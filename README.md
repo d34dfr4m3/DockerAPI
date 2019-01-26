@@ -8,4 +8,5 @@ os requisitos de forma menos amadora.
 - Implementar e Testar o start,restart,stop de containers
 - Implementar o TTL para 60 minutos de cada container
 - Restringir o acesso do container ao IP de origem do start atráves de regras de firewall e porta.
+- Criar um daemon, daemonitizar o programa. hue
 
