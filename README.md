@@ -31,7 +31,7 @@ restart container_name
 - Criar um daemon, daemonitizar o programa. hue
 
 ##### RTFM STUFF
-https://www.programmableweb.com/api/docker
-https://docs.docker.com/develop/sdk/#sdk-and-api-quickstart
-https://docs.docker.com/engine/api/v1.39/#operation/ContainerCreate
-https://docker-py.readthedocs.io/en/stable/containers.html
+- https://www.programmableweb.com/api/docker
+- https://docs.docker.com/develop/sdk/#sdk-and-api-quickstart
+- https://docs.docker.com/engine/api/v1.39/#operation/ContainerCreate
+- https://docker-py.readthedocs.io/en/stable/containers.html
