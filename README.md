@@ -4,6 +4,8 @@ será usado python mas alguma outra linguagem caso eu detecte problemas de perfo
 
 
 ##### Projeto
+A ideia aqui é construir um módulo de uma plataforma de CTF que irá integrar a plataforma à um host docker para manipular os containers referents á challenges. 
+
 ```
 Interface Web --- > API_CLIENT ----> Host Docker
 ```
